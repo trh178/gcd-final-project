@@ -3,7 +3,7 @@ GCD Final Project
 
 Files:
 - run_analysis.R: This script writes out a text file of the final tidy data set for step 5 (averages of measurements for each activity for each subject)
-- data/step5-subject-activity-averages.txt: File written out by run_analysis.R
+- step5-subject-activity-averages.txt: File written out by run_analysis.R
 - CodeBook.md: Code book describing all variables in output table.
 
 ------
